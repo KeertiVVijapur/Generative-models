@@ -1,9 +1,9 @@
-Introduction to Generative models
+Generative and Discriminative models
 
-Generative Adversarial Network -GAN
+Generative Adversarial Network - GAN
 
 Deep Convolutional GAN
 
 Additional GAN architectures
 
-Challenges and performance issues in GAN models
+Naive Bayes generative model
